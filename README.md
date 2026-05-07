@@ -3,9 +3,13 @@
 Built a simple House Price Prediction project using Python and Machine Learning during my AI/ML internship.
 
 In this project, I used:
+
 • Pandas for data handling
+
 • Scikit-learn for model training
+
 • Linear Regression, Ridge, and Lasso algorithms
+
 • StandardScaler for feature scaling
 
 The model predicts house prices based on:
