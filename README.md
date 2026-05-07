@@ -1,6 +1,6 @@
 # House-Price-prediction
 
-Built a simple House Price Prediction project using Python and Machine Learning during my AI/ML internship at [Acadeno Technologies Private Limited](https://www.acadeno.com?utm_source=chatgpt.com) 🚀
+Built a simple House Price Prediction project using Python and Machine Learning during my AI/ML internship.
 
 In this project, I used:
 • Pandas for data handling
